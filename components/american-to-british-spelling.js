@@ -1697,5 +1697,12 @@ module.exports = {
   "yodeled": "yodelled",
   "yodeling": "yodelling",
   "yogurt": "yoghurt",
-  "yogurts": "yoghurts"
+  "yogurts": "yoghurts",
+  "yogurt": "yoghurt",
+  "favorite": "favourite",
+  "condo": "flat",
+  "trashcan": "bin",
+  "parking": "car park",
+  "Rube": "Heath Robinson",
+  "hooky": "bunk off"
 }
